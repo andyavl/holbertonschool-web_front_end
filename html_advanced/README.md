@@ -10,3 +10,4 @@
 5. Section
 6. Work, News, Testimonial articles
 7. Navigation
+8. Level 1 headings
