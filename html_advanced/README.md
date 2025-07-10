@@ -40,3 +40,4 @@
 35. Replace text logo with image logo
 36. Add images to your sections
 37. Social icons
+38. Add a video player in the styleguide
