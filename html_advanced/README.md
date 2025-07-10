@@ -12,3 +12,4 @@
 7. Navigation
 8. Level 1 headings
 9. Level 2 headings
+10. Level 3 headings
