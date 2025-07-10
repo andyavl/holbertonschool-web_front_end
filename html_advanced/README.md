@@ -22,3 +22,4 @@
 17. Comments
 18. link your logo
 19. Create new pages
+20. Add links
