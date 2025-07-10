@@ -38,3 +38,4 @@
 33. Table
 34. Details
 35. Replace text logo with image logo
+36. Add images to your sections
