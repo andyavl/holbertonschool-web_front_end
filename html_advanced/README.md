@@ -9,3 +9,4 @@
 4. Aside
 5. Section
 6. Work, News, Testimonial articles
+7. Navigation
