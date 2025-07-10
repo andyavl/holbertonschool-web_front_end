@@ -21,3 +21,4 @@
 16. Structure your sections
 17. Comments
 18. link your logo
+19. Create new pages
