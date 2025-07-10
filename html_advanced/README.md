@@ -32,3 +32,4 @@
 27. Separate content
 28. Horizontal rule example
 29. Client quotes
+30. Examples of quotes
