@@ -20,3 +20,4 @@
 15. Div
 16. Structure your sections
 17. Comments
+18. link your logo
