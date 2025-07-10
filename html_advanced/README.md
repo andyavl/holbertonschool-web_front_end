@@ -34,3 +34,4 @@
 29. Client quotes
 30. Examples of quotes
 31. Address and latest news authors
+32. Typography section - using the correct tags
