@@ -37,3 +37,4 @@
 32. Typography section - using the correct tags
 33. Table
 34. Details
+35. Replace text logo with image logo
