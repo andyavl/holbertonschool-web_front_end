@@ -7,3 +7,4 @@
 2. The head - meta charset, viewport, title, description, favicons
 3. Simple header, main, footer
 4. Aside
+5. Section
