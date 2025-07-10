@@ -33,3 +33,4 @@
 28. Horizontal rule example
 29. Client quotes
 30. Examples of quotes
+31. Address and latest news authors
