@@ -31,3 +31,4 @@
 26. Examples of lists for the styleguide
 27. Separate content
 28. Horizontal rule example
+29. Client quotes
