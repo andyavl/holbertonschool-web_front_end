@@ -36,3 +36,4 @@
 31. Address and latest news authors
 32. Typography section - using the correct tags
 33. Table
+34. Details
