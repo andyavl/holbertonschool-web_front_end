@@ -11,3 +11,4 @@
 6. Work, News, Testimonial articles
 7. Navigation
 8. Level 1 headings
+9. Level 2 headings
