@@ -173,6 +173,14 @@ a:active {
   color: var(--color-primary);
 }
 
+.social-link {
+  display: block;
+}
+
+.social-link > svg {
+  fill: var(--text-color);
+}
+
 .section {
   padding: var(--section-padding);
 }
@@ -239,12 +247,4 @@ h1, h2, h3, h4, h5, h6 {
 
 .footer-address {
   color: var(--text-color);
-}
-
-.social-link {
-  display: block;
-}
-
-.social-link svg {
-  fill: var(--text-color);
 }
